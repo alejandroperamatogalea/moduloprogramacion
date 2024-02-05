@@ -102,4 +102,9 @@ public class Cuenta {
 		return "Cuenta con saldo " + saldo + " .Se han realizado " 
 				+ contadorIngresos + " ingresos y " + contadorReintegros + " reintegros.";
 	}
+	
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
