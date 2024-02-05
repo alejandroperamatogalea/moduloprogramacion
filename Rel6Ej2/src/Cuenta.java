@@ -103,8 +103,5 @@ public class Cuenta {
 				+ contadorIngresos + " ingresos y " + contadorReintegros + " reintegros.";
 	}
 	
-	private void syso() {
-		// TODO Auto-generated method stub
-
-	}
+	
 }
